@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{ 
+	"@context" : "http://schema.org",
+	"@type" : "apartment",
+	"address" : {
+		"@type": "PostalAddress",
+		"streetAddress": "1014 River Park Circle West",
+		"addressLocality": "Mukwonago",
+		"addressRegion": "WI",
+		"postalCode": "53149"
+	},
+	"name": "River Park Place - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/River-Park-Place.aspx",
+	"telephone": "262-347-4774",
+	"description": "River Park Place is close to city conveniences but offers so much more. Step inside an apartment home and enjoy the spacious, sunny rooms. Step outside and experience a wonderland of outdoor activities – golf courses, fishing, boating, ski hills and trails. Pleasure and peacefulness, comfort and convenience: all available at River Park Place.",
+	"disambiguatingDescription": "Heat and soft water included, Range with self-cleaning oven, Frost free freezer, Garbage disposal, Individual air conditioner, Snack bar, Abundant cabinet space, Large closets with California-style shelving, some walk-ins, some storage, Cable ready, Dead bolt locks, Locked lobby, Laundry facilities, Storage lockers, Off-street parking, Beautifully landscaped, Onsite management, 24-hour emergency maintenance, Pet friendly",
+	"numberOfRooms": "1 and 2 bedroom",
+	"occupancy": "1 to 4 people",
+	"floorSize": "670 - 770 FTK",
+	"petsAllowed": "Yes",
+	"publicAccess": "True",
+	"hasMap": "https://goo.gl/maps/QGF2gJmd9v37WUiP9",
+	"image": [
+		"https://www.bielinski.com/BielinskiHomes/media/Images/featured-river-park-place.jpg",
+		"https://www.bielinski.com/getattachment/706be314-b089-4a6b-aa63-290b7a8acb5b/attachment.aspx",
+		"https://www.bielinski.com/getattachment/b862d70a-a96f-4db4-b7ee-156e9b1440ca/attachment.aspx",
+		"https://www.bielinski.com/getattachment/965fb780-0523-43d8-9314-08f680a05574/attachment.aspx"
+	]
+} </script>

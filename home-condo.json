@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{ 
+	"@context" : "http://schema.org",
+	"@type" : "house",
+	"address" : {
+		"@type": "PostalAddress",
+		"streetAddress": "803 Belmont Dr",
+		"addressLocality": "Watertown",
+		"addressRegion": "WI",
+		"postalCode": "53094"
+	},
+	"name": "The Arabella - Bielinski RediHomes",
+	"url": "https://www.bielinski.com/new-homes/buy-a-redihome/RediHome-Details.aspx?p=7083",
+	"telephone": "262-548-5540",
+	"description": "This smart, compact design offers essential living at the rear of the first-floor for privacy, as well as the great room, dining area and kitchen, which features an island with snack bar, ample cabinetry and counter space and a walk-in pantry. The equally generous second floor features an owner’s retreat with private bath and walk-in closet along with three secondary bedrooms and a hall bath.",
+	"disambiguatingDescription": "Open-concept, Compact footprint, Walk-in pantry, Narrow lot design, Kitchen snack-bar, Owner's retreat includes walk in-closet and deluxe bathroom featuring a dual vanity and five-foot shower, Large laundry room, Ample closet space throughout, Single dining area for ease of living, Gas fireplace, Additional garage storage.",
+	"numberOfRooms": "4",
+	"floorSize": "1909 FTK",
+	"hasMap": "https://goo.gl/maps/yoniaoiYLALuUKNz8",
+	"image": [
+		"https://www.bielinski.com/BielinskiHomes/media/FloorPlanImages/Main-Image-1280x853/Arabella-1904-Arts-Crafts-2-car.jpg",
+		"https://www.bielinski.com/getmedia/6d93d0a8-2004-47bc-b660-73730e85d130/803-Belmont-Dr-02-Front-Entry.aspx",
+		"https://www.bielinski.com/getmedia/c30f92df-3e8b-41f2-93af-012967dc75e9/803-Belmont-Dr-05-Kitchen.aspx",
+		"https://www.bielinski.com/getmedia/0ee56d34-ba5f-4423-b010-589a6c5c3473/803-Belmont-Dr-09-Open-conept.aspx",
+		"https://www.bielinski.com/getmedia/a4172719-4880-400e-aafe-84388817feea/803-Belmont-Dr-18-Master-Bathroom.aspx"
+	]
+} </script>
