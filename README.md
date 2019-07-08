@@ -15,6 +15,10 @@ Code should be placed into the CMS templates and auto-populated with
 data pulled from the house/condo/apartment.
 
 
+## Examples
+`home-condo.json` shows sample for [The Arabella](https://www.bielinski.com/new-homes/buy-a-redihome/RediHome-Details.aspx?p=7083)  
+`apartment.json` shows sample for [River Park Place](https://www.bielinski.com/Apartments/River-Park-Place.aspx)
+
 ## Changelog
 **v1.0.0** - (Date: 2019.06.18)  
 Initial creation and validation of the schema.org scripts.
