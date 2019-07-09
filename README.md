@@ -1,8 +1,8 @@
 # Bielinski - Schema for Templates
 
 **Creation Date:** 2019.06.18  
-**Updated:** --  
-**Version:** 1.0.0  
+**Updated:** 2019.07.09  
+**Version:** 1.0.1  
   
 	
 ## Description
@@ -20,6 +20,9 @@ data pulled from the house/condo/apartment.
 `apartment.json` shows sample for [River Park Place](https://www.bielinski.com/Apartments/River-Park-Place.aspx)
 
 ## Changelog
+**v1.0.1** - (Date: 2019.07.09)  
+Made change to `hasMap` URL to work with latitude and longitude.
+
 **v1.0.0** - (Date: 2019.06.18)  
 Initial creation and validation of the schema.org scripts.
 Validated with Google's schema checker.
