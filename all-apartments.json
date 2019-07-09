@@ -1,0 +1,99 @@
+<script type="application/ld+json">
+{ 
+	"@context" : "http://schema.org",
+	"@type" : "apartment",
+	"address" : {
+		"@type": "PostalAddress",
+		"streetAddress": "1014 River Park Circle West",
+		"addressLocality": "Mukwonago",
+		"addressRegion": "WI",
+		"postalCode": "53149"
+	},
+	"name": "River Park Place - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/River-Park-Place.aspx",
+	"telephone": "262-347-4774",
+	"description": "River Park Place is close to city conveniences but offers so much more. Step inside an apartment home and enjoy the spacious, sunny rooms. Step outside and experience a wonderland of outdoor activities – golf courses, fishing, boating, ski hills and trails. Pleasure and peacefulness, comfort and convenience: all available at River Park Place.",
+	"disambiguatingDescription": "Heat and soft water included. Range with self-cleaning oven. Frost free freezer. Garbage disposal. Individual air conditioner. Snack bar. Abundant cabinet space. Large closets with California-style shelving, some walk-ins, some storage. Cable ready. Dead bolt locks. Locked lobby. Laundry facilities. Storage lockers. Off-street parking. Beautifully landscaped. Onsite management. 24-hour emergency maintenance. Pet friendly.",
+	"numberOfRooms": "1 and 2 bedroom",
+	"floorSize": "670 - 770 FTK",
+	"petsAllowed": "Yes",
+	"publicAccess": "True",
+	"hasMap": "https://www.google.com/maps?q=loc:42.872763,-88.316687",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-river-park-place.jpg"
+} </script>
+
+
+<script type="application/ld+json">
+{ 
+	"@context" : "http://schema.org",
+	"@type" : "apartment",
+	"address" : {
+		"@type": "PostalAddress",
+		"streetAddress": "Burr Oak Blvd at Oakdale Dr",
+		"addressLocality": "Waukesha",
+		"addressRegion": "WI",
+		"postalCode": "53189"
+	},
+	"name": "Burr Oaks Village Apartments - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Burr-Oaks-Village.aspx",
+	"telephone": "262-547-6697",
+	"description": "Burr Oaks was designed for people to enjoy the luxury of condo-style living at an affordable price! These comfortably sized two bedroom homes feature private entries, large balconies, abundant storage and private oversized one car garages. Conveniently located along the Les Paul Parkway, Burr Oaks provides easy access to major highways so city conveniences are just a short drive away. Park-like landscaping and picturesque surroundings make Burr Oaks truly unique.",
+	"disambiguatingDescription": "2 Bedroom apartment homes. Four apartments per building all with private entry. Three exposures and cross-ventilation in every apartment. Private oversized one car garage. Abundant storage. Individual controlled electric heat. Central air conditioning. Private patio or balcony. Efficient kitchen including refrigerator, range, dishwasher and food disposal. Individual stack washer and dryer. Pet friendly. Professional management team. 24-hour emergency maintenance service.",
+	"numberOfRooms": "2 bedroom",
+	"floorSize": "970 FTK",
+	"petsAllowed": "Yes",
+	"publicAccess": "True",
+	"hasMap": "https://www.google.com/maps?q=loc:42.978279,-88.256355",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-burr-oaks.jpg"
+} </script>
+
+
+<script type="application/ld+json">
+{ 
+	"@context" : "http://schema.org",
+	"@type" : "apartment",
+	"address" : {
+		"@type": "PostalAddress",
+		"streetAddress": "430 & 450 Kimberly Dr",
+		"addressLocality": "Waukesha",
+		"addressRegion": "WI",
+		"postalCode": "53188"
+	},
+	"name": "Kimberly Place - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Kimberly-Place.aspx",
+	"telephone": "262-547-6697",
+	"description": "Tucked away in a quiet residential neighborhood Kimberly Place offers convenience and comfort at an affordable price. Distinctive 1 and 2 bedroom apartments and a spacious kitchen with an abundance of cabinets make these apartment homes truly special. Centrally located to shopping, schools, churches, parks, pools and golf courses Kimberly Place has everything you need just minutes away!",
+	"disambiguatingDescription": "Distinctive and spacious 1 and 2 bedroom apartments. Heat included. Air conditioning. Spacious kitchen with abundant cabinets and drawers. Deluxe appliance package including refrigerator, range dishwasher and food disposal. Mini-blinds and vertical blinds throughout. Multiple cable hookups and telephone jacks. Convenient laundry room. Private patio or balcony. Deadbolt locks. Soft water. Intercom entry. Elevator service in Building 430. Optional heated underground parking. Additional storage rooms. We welcome your cat. Professional management team. 24-hour emergency maintenance service.",
+	"numberOfRooms": "1 and 2 bedroom",
+	"floorSize": "625 - 985 FTK",
+	"publicAccess": "True",
+	"hasMap": "https://www.google.com/maps?q=loc:43.018415,-88.248496",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-kimberly-place.jpg"
+} </script>
+
+
+<script type="application/ld+json">
+{ 
+	"@context" : "http://schema.org",
+	"@type" : "apartment",
+	"address" : {
+		"@type": "PostalAddress",
+		"streetAddress": "Sunset Dr & Navajo Ln",
+		"addressLocality": "Waukesha",
+		"addressRegion": "WI",
+		"postalCode": "53189"
+	},
+	"name": "Whispering Ponds - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Whispering-Ponds.aspx",
+	"telephone": "262-547-6697",
+	"description": "Located just blocks from beautiful Minooka Park, Whispering Ponds has hiking, swimming, fishing and cross-country skiing all within walking distance! When you are home, you can enjoy the fresh air in our courtyard and gazebo. Comfortable apartment homes in an ideal location make Whispering Ponds the place you will love to call home.",
+	"disambiguatingDescription": "900 to 1300 square feet. Private entry. Central air. Reserved heated parking. Spacious dining room. Some sitting rooms. Mini-blinds and vertical blinds throughout. Deluxe appliance package including full size washer/dryer. Private water heater. Cable ready. Pet friendly. Soft water. Oversized patio/balcony. Some vaulted ceilings. Energy efficient gas forced air furnace. 24-hour emergency maintenance service. Professional management team.",
+	"numberOfRooms": "1 and 2 bedroom",
+	"floorSize": "895 - 1300 FTK",
+	"petsAllowed": "Yes",
+	"publicAccess": "True",
+	"hasMap": "https://www.google.com/maps?q=loc:42.986053,-88.205114",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-whispering-ponds.jpg"
+} </script>
+
+
