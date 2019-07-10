@@ -1,8 +1,8 @@
 # Bielinski - Schema for Templates
 
 **Creation Date:** 2019.06.18  
-**Updated:** 2019.07.09  
-**Version:** 1.0.1  
+**Updated:** 2019.07.10  
+**Version:** 1.0.2  
   
 	
 ## Description
