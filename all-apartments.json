@@ -1,14 +1,8 @@
 <script type="application/ld+json">
 { 
-	"@context" : "http://schema.org",
-	"@type" : "apartment",
-	"address" : {
-		"@type": "PostalAddress",
-		"streetAddress": "1014 River Park Circle West",
-		"addressLocality": "Mukwonago",
-		"addressRegion": "WI",
-		"postalCode": "53149"
-	},
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "1014 River Park Circle West, Mukwonago, WI 53149",
 	"name": "River Park Place - Bielinski Apartments",
 	"url": "https://www.bielinski.com/Apartments/River-Park-Place.aspx",
 	"telephone": "262-347-4774",
@@ -16,8 +10,7 @@
 	"disambiguatingDescription": "Heat and soft water included. Range with self-cleaning oven. Frost free freezer. Garbage disposal. Individual air conditioner. Snack bar. Abundant cabinet space. Large closets with California-style shelving, some walk-ins, some storage. Cable ready. Dead bolt locks. Locked lobby. Laundry facilities. Storage lockers. Off-street parking. Beautifully landscaped. Onsite management. 24-hour emergency maintenance. Pet friendly.",
 	"numberOfRooms": "1 and 2 bedroom",
 	"floorSize": "670 - 770 FTK",
-	"petsAllowed": "Yes",
-	"publicAccess": "True",
+	"petsAllowed": "Pet friendly",
 	"hasMap": "https://www.google.com/maps?q=loc:42.872763,-88.316687",
 	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-river-park-place.jpg"
 } </script>
@@ -25,15 +18,9 @@
 
 <script type="application/ld+json">
 { 
-	"@context" : "http://schema.org",
-	"@type" : "apartment",
-	"address" : {
-		"@type": "PostalAddress",
-		"streetAddress": "Burr Oak Blvd at Oakdale Dr",
-		"addressLocality": "Waukesha",
-		"addressRegion": "WI",
-		"postalCode": "53189"
-	},
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "Burr Oak Blvd at Oakdale Dr, Waukesha, WI 53189",
 	"name": "Burr Oaks Village Apartments - Bielinski Apartments",
 	"url": "https://www.bielinski.com/Apartments/Burr-Oaks-Village.aspx",
 	"telephone": "262-547-6697",
@@ -41,8 +28,7 @@
 	"disambiguatingDescription": "2 Bedroom apartment homes. Four apartments per building all with private entry. Three exposures and cross-ventilation in every apartment. Private oversized one car garage. Abundant storage. Individual controlled electric heat. Central air conditioning. Private patio or balcony. Efficient kitchen including refrigerator, range, dishwasher and food disposal. Individual stack washer and dryer. Pet friendly. Professional management team. 24-hour emergency maintenance service.",
 	"numberOfRooms": "2 bedroom",
 	"floorSize": "970 FTK",
-	"petsAllowed": "Yes",
-	"publicAccess": "True",
+	"petsAllowed": "Pet friendly",
 	"hasMap": "https://www.google.com/maps?q=loc:42.978279,-88.256355",
 	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-burr-oaks.jpg"
 } </script>
@@ -50,15 +36,9 @@
 
 <script type="application/ld+json">
 { 
-	"@context" : "http://schema.org",
-	"@type" : "apartment",
-	"address" : {
-		"@type": "PostalAddress",
-		"streetAddress": "430 & 450 Kimberly Dr",
-		"addressLocality": "Waukesha",
-		"addressRegion": "WI",
-		"postalCode": "53188"
-	},
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "430 & 450 Kimberly Dr, Waukesha, WI 53188",
 	"name": "Kimberly Place - Bielinski Apartments",
 	"url": "https://www.bielinski.com/Apartments/Kimberly-Place.aspx",
 	"telephone": "262-547-6697",
@@ -66,7 +46,7 @@
 	"disambiguatingDescription": "Distinctive and spacious 1 and 2 bedroom apartments. Heat included. Air conditioning. Spacious kitchen with abundant cabinets and drawers. Deluxe appliance package including refrigerator, range dishwasher and food disposal. Mini-blinds and vertical blinds throughout. Multiple cable hookups and telephone jacks. Convenient laundry room. Private patio or balcony. Deadbolt locks. Soft water. Intercom entry. Elevator service in Building 430. Optional heated underground parking. Additional storage rooms. We welcome your cat. Professional management team. 24-hour emergency maintenance service.",
 	"numberOfRooms": "1 and 2 bedroom",
 	"floorSize": "625 - 985 FTK",
-	"publicAccess": "True",
+	"petsAllowed": "Cats welcomed",
 	"hasMap": "https://www.google.com/maps?q=loc:43.018415,-88.248496",
 	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-kimberly-place.jpg"
 } </script>
@@ -74,15 +54,27 @@
 
 <script type="application/ld+json">
 { 
-	"@context" : "http://schema.org",
-	"@type" : "apartment",
-	"address" : {
-		"@type": "PostalAddress",
-		"streetAddress": "Sunset Dr & Navajo Ln",
-		"addressLocality": "Waukesha",
-		"addressRegion": "WI",
-		"postalCode": "53189"
-	},
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "1212 & 1216 S Grand Ave, Waukesha, WI 53186",
+	"name": "Walnut Grove - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Walnut-Grove.aspx",
+	"telephone": "262-547-6697",
+	"description": "Walnut Grove is situated in a quiet residential neighborhood convenient to shops, parks and restaurants. The affordable price and comfortable design make Walnut Grove a home that will fit your needs both now and in the future!",
+	"disambiguatingDescription": "Spacious 1 and 2 bedroom apartments. Air conditioning. Individually controlled electric heat. Spacious kitchen with abundant cabinets and drawers. Deluxe appliance package including refrigerator, range, dishwasher and food disposal. Mini-blinds throughout. Cable hookups and telephone jacks. Convenient laundry room on first floor. Private patio or balcony with select apartments. Soft water. Off street parking. Deadbolt locks. Intercom entry. Additional storage room. We welcome your cat. Professional management team. 24-hour emergency maintenance service.",
+	"numberOfRooms": "1 and 2 bedroom",
+	"floorSize": "675 - 1050 FTK",
+	"petsAllowed": "Cats welcomed",
+	"hasMap": "https://www.google.com/maps?q=loc:42.991209,-88.23284",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-walnut-grove.jpg"
+} </script>
+
+
+<script type="application/ld+json">
+{ 
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "Sunset Dr & Navajo Ln, Waukesha, WI 53189",
 	"name": "Whispering Ponds - Bielinski Apartments",
 	"url": "https://www.bielinski.com/Apartments/Whispering-Ponds.aspx",
 	"telephone": "262-547-6697",
@@ -90,10 +82,76 @@
 	"disambiguatingDescription": "900 to 1300 square feet. Private entry. Central air. Reserved heated parking. Spacious dining room. Some sitting rooms. Mini-blinds and vertical blinds throughout. Deluxe appliance package including full size washer/dryer. Private water heater. Cable ready. Pet friendly. Soft water. Oversized patio/balcony. Some vaulted ceilings. Energy efficient gas forced air furnace. 24-hour emergency maintenance service. Professional management team.",
 	"numberOfRooms": "1 and 2 bedroom",
 	"floorSize": "895 - 1300 FTK",
-	"petsAllowed": "Yes",
-	"publicAccess": "True",
+	"petsAllowed": "Pet friendly",
 	"hasMap": "https://www.google.com/maps?q=loc:42.986053,-88.205114",
 	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-whispering-ponds.jpg"
 } </script>
 
 
+<script type="application/ld+json">
+{ 
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "1722, 1724 and 1726 E Racine Ave, Waukesha, WI 53186",
+	"name": "Wildflower Place - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Wildflower-Place.aspx",
+	"telephone": "262-547-6697",
+	"description": "Wildflower Place offers the comfort of being located next to a nature conservancy yet shopping, schools, churches, parks, pools and golf courses are only a short drive away! The oversized patios are ideal for relaxing on warm summer nights, and the gourmet kitchen is perfect for entertaining family and friends. Experience why Wildflower Place is a great place to call home!",
+	"disambiguatingDescription": "Heat included. Elevator service. Underground parking available. Spacious designer kitchen. Intercom access entry. Private patio or balcony. Abundant cabinet space. Some vaulted ceilings. Mini-blinds and vertical blinds throughout. Laundry on each floor. Air conditioning. Great location near parks, shopping, restaurants, recreation and freeways. Large closets. Close to nature preserve. We welcome your cat. Professional management.",
+	"numberOfRooms": "1 and 2 bedroom",
+	"floorSize": "670 - 965 FTK",
+	"petsAllowed": "Cats welcomed",
+	"hasMap": "https://www.google.com/maps?q=loc:42.995137,-88.198949",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-wildflower-place.jpg"
+} </script>
+
+
+<script type="application/ld+json">
+{ 
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "824 Woodfield Dr, Waterford, WI 53185",
+	"name": "Woodfield Residences - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Woodfield-Residences.aspx",
+	"telephone": "262-547-6697",
+	"description": "Woodfield Rental Residences is home to 12 exclusive luxury abodes. Each residence features a gourmet kitchen with abundant cabinetry and pantry, an island with built-in snack bar, granite countertops, stainless steel appliances and luxury vinyl tile flooring. Other luxury features include spacious bedrooms with plenty of storage, an in-unit washer and dryer and secured parking with private garage. The building itself is constructed in a modern arts and crafts style with four-sided architecture. You will be amongst an elite few who will be proud to call Woodfield Rental Residences home.",
+	"disambiguatingDescription": "All units and garages are non-smoking. Abundant kitchen cabinetry with pantry. Deluxe appliance package including stainless steel refrigerator, electric range, built-in microwave, dishwasher and garbage disposal. Kitchen island with snack bar. Spacious closets (some walk-in). Cable and CAT6 ready. Stacked in-unit washer and dryer. Central heat and air. Private water heater. Private entry. Private garage. Beautifully landscaped. Professional management team. 24-hour emergency maintenance.",
+	"numberOfRooms": "1 and 2 bedroom",
+	"floorSize": "915 - 1225 FTK",
+	"hasMap": "https://www.google.com/maps?q=loc:42.768986,-88.227234",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/Featured-Woodfield_2.jpg"
+} </script>
+
+
+<script type="application/ld+json">
+{ 
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "12605 W Wyndridge Dr, New Berlin, WI 53151",
+	"name": "Wyndridge - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Wyndridge.aspx",
+	"telephone": "262-547-6697",
+	"description": "Wyndridge Apartments provide comfortable apartment living in a casual environment. Our park-like setting invites you to stroll around the pond and sit on your patio to enjoy the fresh air and sunshine. Located in convenient New Berlin, a commute to Milwaukee takes only 15 minutes. Whatever your needs, Wyndridge Apartments are perfect for today’s active lifestyles!",
+	"disambiguatingDescription": "900 to 1,300 sq ft. Private entry. Central air. Heated underground parking included. Spacious dining room. Some sitting rooms. Deluxe appliance package with full size washer/dryer. Private water heater. Cable ready. Pet friendly. Oversized patio/balcony. Some vaulted ceilings. Energy efficient gas forced air furnace. Volley ball court. Tennis courts. Walking trail. 24-hour fitness center. 24-hour emergency maintenance service. Professional management team.",
+	"numberOfRooms": "1 and 2 bedroom",
+	"floorSize": "890 - 1285 FTK",
+	"petsAllowed": "Pet friendly",
+	"hasMap": "https://www.google.com/maps?q=loc:42.932112,-88.073381",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-wyndridge.jpg"
+} </script>
+
+
+<script type="application/ld+json">
+{ 
+	"@additionalType": {"Townhouse": "https://www.wikidata.org/wiki/Q1202402"},
+	"@type": "Townhouse",
+	"address": "Waukesha, WI 53151",
+	"name": "Waukesha Townhomes - Bielinski Apartments",
+	"url": "https://www.bielinski.com/Apartments/Waukesha-Townhomes.aspx",
+	"telephone": "262-547-6697",
+	"description": "Bielinski Townhomes are located in select neighborhoods throughout Waukesha and offer quiet, comfortable and affordable living. These two family homes have the space comfort and privacy usually only found in single family homes! Come see why a Waukesha Townhome is the right home for you!",
+	"disambiguatingDescription": "Ranch and 2-story designs. Private garage. Private entry. Individual yard. Private basement. Hook ups for full size washer & dryer (gas and electric). Efficient heat and central air systems. Spacious eat-in kitchen with abundant cabinets and drawers. Deluxe appliance package including refrigerator range, disposal and some with dishwashers. 24-hour emergency maintenance service. Pet friendly.",
+	"petsAllowed": "Pet friendly",
+	"hasMap": "https://www.google.com/maps?q=loc:42.985626,-88.257224",
+	"image": "https://www.bielinski.com/BielinskiHomes/media/Images/featured-waukesha-townhomes.jpg"
+} </script>

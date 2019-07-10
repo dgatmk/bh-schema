@@ -1,14 +1,8 @@
 <script type="application/ld+json">
 { 
-	"@context" : "http://schema.org",
-	"@type" : "apartment",
-	"address" : {
-		"@type": "PostalAddress",
-		"streetAddress": "1014 River Park Circle West",
-		"addressLocality": "Mukwonago",
-		"addressRegion": "WI",
-		"postalCode": "53149"
-	},
+	"@context": "http://schema.org",
+	"@type": "apartment",
+	"address": "1014 River Park Circle West, Mukwonago, WI 53149",
 	"name": "River Park Place - Bielinski Apartments",
 	"url": "https://www.bielinski.com/Apartments/River-Park-Place.aspx",
 	"telephone": "262-347-4774",
@@ -18,7 +12,6 @@
 	"occupancy": "1 to 4 people",
 	"floorSize": "670 - 770 FTK",
 	"petsAllowed": "Yes",
-	"publicAccess": "True",
 	"hasMap": "https://www.google.com/maps?q=loc:42.872763,-88.316687",
 	"image": [
 		"https://www.bielinski.com/BielinskiHomes/media/Images/featured-river-park-place.jpg",
